@@ -1,0 +1,1 @@
+Liri-bot is a node js app that takes in user input via command line, allowing users to access Spotify, Bands In Town, and OMDB API's. The app returns data related to which API is accessed and displays this data/info in a document and the command line interface.
